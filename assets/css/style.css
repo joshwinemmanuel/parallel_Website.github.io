@@ -171,7 +171,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #757575;
+  color: #834ad6;
+ border-color:#834ad6 ;
 }
 
 .nav-menu .drop-down ul {
@@ -508,7 +509,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
 .section-title h2 {
@@ -516,7 +517,7 @@ section {
   font-weight: 500;
   padding: 0;
   line-height: 1px;
-  margin: 0 0 5px 0;
+  margin: 0 0 0 0;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;

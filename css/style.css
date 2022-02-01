@@ -116,12 +116,13 @@ section {
 
 /* Rows and Columns */
 
-.row {
+.row1 {
     max-width: 1245px;
     margin: 0 auto;
     padding: 75px 0;
     position: relative;
 }
+
 
 .no-padding-bottom .row, .no-padding-bottom div, .no-padding-bottom.row {
     padding-bottom: 0;
