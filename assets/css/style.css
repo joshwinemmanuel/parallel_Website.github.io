@@ -1460,6 +1460,8 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+
+
 #footer {
   background: rgb(243, 243, 243);
   padding: 0 0 20px 0;
@@ -1606,12 +1608,12 @@ section {
 
 #footer .copyright {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 12px;
 }
 
 #footer .credits {
   padding-top: 10px;
   text-align: center;
-  font-size: 13px;
+  font-size: 12px;
   color: rgb(0, 0, 0);
 }
